@@ -1,0 +1,11 @@
+{
+    "name"              :   "bdroppySunglasses",
+    "namespace"         :   "bdroppySunglasses",
+    "type"              :   "template",
+    "version"           :   "1.0.0",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "Fatching Sunglasses From Bdroppy",
+    "author"            :   "Dhrumil Chauhan",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "bdroppySunglasses\\Providers\\bdroppySunglassesServiceProvider"
+}
